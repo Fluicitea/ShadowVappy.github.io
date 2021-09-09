@@ -1756,9 +1756,6 @@ body,
     filter: drop-shadow(-3px -1px 1px rgb(0, 0, 0)) drop-shadow(-2px 0px 1px rgb(0, 0, 0));
 }
 .channelHeader-3Gd2xq,
-.messageContainer-gbhlwo { /*Mentions*/
-    background-color: transparent;
-}
 .button-1-5Aqk { /*Close mention button*/
     background-color: transparent;
     color: rgb(var(--server-channel-textc), 0.35);
