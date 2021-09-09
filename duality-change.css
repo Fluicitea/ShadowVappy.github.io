@@ -1334,17 +1334,7 @@ body,
     background: transparent;
     filter: drop-shadow(-3px -1px 1px rgb(0, 0, 0)) drop-shadow(-2px 0px 1px rgb(0, 0, 0));    
 }
-.cozy-3raOZG.wrapper-2a6GCs.mentioned-xhSam7,
-.cozy-3raOZG.wrapper-2a6GCs.replying-1x3H0T { /*Mentioned/Replying to message*/
-    background-color: rgba(0, 0, 0, 0.05);
-    filter: drop-shadow(-3px -1px 1px rgb(0, 0, 0)) drop-shadow(-2px 0px 1px rgb(0, 0, 0));
-    box-shadow: -2px -3px 5px 1px rgb(0, 0, 0);
-    border-top-right-radius: var(--main-radius);
-}
-.cozy-3raOZG.wrapper-2a6GCs.mentioned-xhSam7::before,
-.cozy-3raOZG.wrapper-2a6GCs.replying-1x3H0T::before { /*Mentioned/Replying to message vertical line*/
-    background-color: rgb(var(--accent-color));
-}
+
 .modal-qgFCbT .imageWrapper-2p5ogY { /*Clicked image modal*/
     box-shadow: -3px -6px 10px 10px rgba(0, 0, 0, 0.569);
 }
